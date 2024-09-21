@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "RLE.wiki"
+  name: "RLE.wiki123"
   text: "一份 RLE 指北"
   tagline: 欢迎大家来到 RLE.wiki. 这是一份给跨性别者与性别多元群体的 RLE 指南。更多帮助正在路上，敬请期待……
   actions:
