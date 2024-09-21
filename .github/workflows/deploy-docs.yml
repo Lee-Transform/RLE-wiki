@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - 'main' # 当推送到 main 分支时触发
+    paths:
+      - 'docs/**'
+      - 'src/**'
+      - '.github/workflows/deploy-docs.yml'
 
 jobs:
   deploy:
